@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on Job Assistance Platform (Job Finder, ATS Score & CodeBotAI) **Orion**
 
-- 🤝 I’m looking for help with open-source contributions (like GSoC 2026) and building or optimizing ML models. [Intelligent Document Q&A](https://project2updated.pages.dev/)
+- 🤝 I’m looking for help with open-source contributions (like GSoC 2026) and building or optimizing ML models.
 
 - 💬 Ask me about **full-stack development, React, Node.js, Python, or how to combine AI models with web apps.**
 
