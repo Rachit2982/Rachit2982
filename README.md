@@ -36,6 +36,5 @@
 
 <div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=rachit2982&cc=000&tc=fff&ic=fff&bc=000" /></div>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit2982&layout=compact&bg_color=black" /></div>
-
-<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rachit2982&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit2982&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
