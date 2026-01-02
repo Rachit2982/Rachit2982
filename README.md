@@ -1,4 +1,4 @@
-![logo](https://github.com/Rachit2982/rachit_saxena2982/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.jpg)
+ ![logo](https://github.com/Rachit2982/rachit_saxena2982/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Rachit Saxena</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
@@ -36,6 +36,5 @@
 
 <div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=rachit2982&cc=000&tc=fff&ic=fff&bc=000" /></div>
 <br/>
+ 
 
-![](https://nirzak-streak-stats.vercel.app/?user=rachit2982&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit2982&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
