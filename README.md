@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **advanced Java with DSA, Computer Networks, and exploring 3rd-series Agentic AI.**
 
-👯 I built Orion, a Job Assistance Platform featuring Job Finder, ATS Score, and CodeBotAI.
+- 👯 I built Orion, a Job Assistance Platform featuring Job Finder, ATS Score, and CodeBotAI.
 
 - 🤝 I’m looking for help with open-source contributions (like GSoC 2026) and building or optimizing ML models.
 
