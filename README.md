@@ -130,7 +130,7 @@
 
 </div>
 
----
+----------
 
 ## 🎓 Education
 
@@ -138,7 +138,7 @@
 **Senior Secondary — CBSE Board** · 2024 · 87.2%
 **Secondary — CBSE Board** · 2022 · 80%
 
----
+-------
 
 ## 🌐 Connect With Me
 
