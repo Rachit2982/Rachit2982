@@ -10,24 +10,24 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 2nd-year **B.Tech in Computer Science (AI & Machine Learning)** at GLA University — CGPA **8.2/10**
-- 💼 Previously **Full Stack Development Intern** @ BAOIAM Innovations Pvt. Ltd. & **Generative AI Intern** @ SkillCred
-- 🔭 Currently building an **Agentic AI project** & diving deep into real-time chat system architecture (think WhatsApp-scale)
-- ⚙️ Working as a **Forward Deployed Engineer**, shipping solutions directly at the intersection of engineering and real-world use cases
-- 🌱 Learning **Advanced Java + DSA**, Computer Networks, and 3rd-generation Agentic AI
-- 🚀 I build full-stack apps and RAG/LLM-powered systems — from **Orion** (a job assistance platform) to production RAG pipelines with LangChain & Pinecone
-- ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)** & **Azure AI Fundamentals (AI-900)**
-- 🔐 Google Certified: **Cybersecurity Professional Certificate** (Linux, SQL, Python, SIEM & IDS)
-- 🤝 Looking to collaborate on **GSoC 2026** and ML model optimization
-- 💬 Ask me about **React, Node.js, Python, LangChain, or combining AI models with web apps**
-- 📫 Reach me at **rachitsaxena12345433@gmail.com**
-- ⚡ Fun fact: I love turning cutting-edge AI research into real-world demos & open-source projects
+-  2nd-year **B.Tech in Computer Science (AI & Machine Learning)** at GLA University — CGPA **8.2/10**
+-  Previously **Full Stack Development Intern** @ BAOIAM Innovations Pvt. Ltd. & **Generative AI Intern** @ SkillCred
+-  Currently building an **Agentic AI project** & diving deep into real-time chat system architecture (think WhatsApp-scale)
+-  Working as a **Forward Deployed Engineer**, shipping solutions directly at the intersection of engineering and real-world use cases
+-  Learning **Advanced Java + DSA**, Computer Networks, and 3rd-generation Agentic AI
+-  I build full-stack apps and RAG/LLM-powered systems — from **Orion** (a job assistance platform) to production RAG pipelines with LangChain & Pinecone
+-  Microsoft Certified: **Azure Fundamentals (AZ-900)** & **Azure AI Fundamentals (AI-900)**
+-  Google Certified: **Cybersecurity Professional Certificate** (Linux, SQL, Python, SIEM & IDS)
+-  Looking to collaborate on **GSoC 2026** and ML model optimization
+-  Ask me about **React, Node.js, Python, LangChain, or combining AI models with web apps**
+-  Reach me at **rachitsaxena12345433@gmail.com**
+-  Fun fact: I love turning cutting-edge AI research into real-world demos & open-source projects
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 **Full Stack Development Intern — BAOIAM Innovations Pvt. Ltd.** `May – Jun 2025`
 - Developed and shipped 3+ responsive React.js UI modules integrated with Node.js/Express.js REST APIs, improving feature delivery speed within an agile sprint cycle
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 **[Orion — AI Job Assistance Platform](https://github.com/Rachit2982/Orion-)** `React.js · Node.js · Express.js · Python · LLM APIs`
 - Engineered a full-stack AI platform supporting job search, ATS resume scoring, and LLM-powered career guidance
@@ -63,24 +63,24 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
-| 🏅 Achievement | 📌 Detail |
+|  Achievement |  Detail |
 |:--|:--|
-| ☁️ Microsoft Certified: Azure Fundamentals (AZ-900) | Score: **840 / 1000** |
-| 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900) | Score: **866 / 1000** |
-| 🔐 Google Cybersecurity Professional Certificate | 9 courses · Google & Coursera |
-| 🥇 Top 15 of 500+ teams — Hack N Viz 2.0 | GLA University |
-| 🧮 11th Rank — Codeathon (Semester 1) | Data Structures & Algorithms contest |
-| 🎪 Participant — Innova Tech Fest | IIIT Delhi, 2025 |
+|  Microsoft Certified: Azure Fundamentals (AZ-900) | Score: **840 / 1000** |
+|  Microsoft Certified: Azure AI Fundamentals (AI-900) | Score: **866 / 1000** |
+|  Google Cybersecurity Professional Certificate | 9 courses · Google & Coursera |
+|  Top 15 of 500+ teams — Hack N Viz 2.0 | GLA University |
+|  11th Rank — Codeathon (Semester 1) | Data Structures & Algorithms contest |
+|  Participant — Innova Tech Fest | IIIT Delhi, 2025 |
 
 </div>
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 <div align="center">
 
@@ -132,7 +132,7 @@
 
 ----------
 
-## 🎓 Education
+##  Education
 
 **B.Tech — Computer Science & Engineering (AI & Machine Learning)** — GLA University · 2024 – 2028 · CGPA: **8.2/10**
 **Senior Secondary — CBSE Board** · 2024 · 87.2%
@@ -140,7 +140,7 @@
 
 -------
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -153,7 +153,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -199,7 +199,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
